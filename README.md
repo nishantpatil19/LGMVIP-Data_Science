@@ -1,1 +1,4 @@
-# LGMVIP-Data_Science
+# LGMVIP Data Science  
+
+***DATA ANALYTICS***  
+*LGM VIRTUAL INTERNSHIP PROGRAM 2022*
